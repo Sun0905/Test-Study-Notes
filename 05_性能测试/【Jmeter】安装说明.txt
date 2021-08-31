@@ -1,0 +1,22 @@
+一、安装JDK
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+
+
+二、设置环境变量
+path： D:\Program Files\Java\jdk1.8.0_261\bin
+classpath：D:\Program Files\Java\jdk1.8.0_261\lib\tools.jar
+
+三、检查是否可用
+cmd-javac
+cmd-java
+
+
+四、下载jmeter
+http://jmeter.apache.org/download_jmeter.cgi
+下载Binaries下面的zip文件
+
+
+五、Oracle账号
+
+846251764@qq.com
+Test1234
